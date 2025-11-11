@@ -1,0 +1,855 @@
+{
+    "FileVersion": "2.3.1",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 2,
+    "BuildPipeline": "ScriptableBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2025-11-10-1083",
+    "PackageNote": "2025/11/10 18:03:05",
+    "AssetList": [
+        {
+            "Address": "CellConfigDatas",
+            "AssetPath": "Assets/Game.Config/CellConfig/CellConfigDatas.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                14,
+                18,
+                19,
+                21
+            ]
+        },
+        {
+            "Address": "AllLevel",
+            "AssetPath": "Assets/Game.Config/Level/AllLevel.txt",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Level_1",
+            "AssetPath": "Assets/Game.Config/Level/Level_1.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Level_2",
+            "AssetPath": "Assets/Game.Config/Level/Level_2.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Level_3",
+            "AssetPath": "Assets/Game.Config/Level/Level_3.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "LanguageTable",
+            "AssetPath": "Assets/GameAssets/Config/GameConfig/Json/LanguageTable.json",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Json",
+                "Local"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TableConfig",
+            "AssetPath": "Assets/GameAssets/Config/GameConfig/Json/TableConfig.json",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Json",
+                "Local"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "LocalizationConfig",
+            "AssetPath": "Assets/GameAssets/GUI/Config/LocalizationConfig.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UILevelEndPanel",
+            "AssetPath": "Assets/GameAssets/GUI/Prefabs/LevelEndPanel/UILevelEndPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes",
+                "Local"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": [
+                11,
+                15,
+                21
+            ]
+        },
+        {
+            "Address": "UILevelMainPanel",
+            "AssetPath": "Assets/GameAssets/GUI/Prefabs/LevelMainPanel/UILevelMainPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes",
+                "Local"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": [
+                11,
+                21
+            ]
+        },
+        {
+            "Address": "UILoading",
+            "AssetPath": "Assets/GameAssets/GUI/Prefabs/Login/UILoading.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes",
+                "Local"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                16,
+                17,
+                21
+            ]
+        },
+        {
+            "Address": "UILogin",
+            "AssetPath": "Assets/GameAssets/GUI/Prefabs/Login/UILogin.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes",
+                "Local"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                16,
+                17,
+                21
+            ]
+        },
+        {
+            "Address": "MainPanel",
+            "AssetPath": "Assets/GameAssets/GUI/Prefabs/MainPanel/MainPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes",
+                "Local"
+            ],
+            "BundleID": 8,
+            "DependBundleIDs": [
+                11,
+                21
+            ]
+        },
+        {
+            "Address": "UISelectLevelPanel",
+            "AssetPath": "Assets/GameAssets/GUI/Prefabs/SelectLevelPanel/UISelectLevelPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes",
+                "Local"
+            ],
+            "BundleID": 9,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UISettingPanel",
+            "AssetPath": "Assets/GameAssets/GUI/Prefabs/SettingPanel/UISettingPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes",
+                "Local"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": [
+                15,
+                20,
+                21
+            ]
+        },
+        {
+            "Address": "SIMKAI Atlas Material_Outline",
+            "AssetPath": "Assets/GameAssets/GUI/TMP/Fonts/TMPFont 1/SIMKAI Atlas Material_Outline.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": [
+                21
+            ]
+        },
+        {
+            "Address": "SIMKAI",
+            "AssetPath": "Assets/GameAssets/GUI/TMP/Fonts/TMPFont 1/SIMKAI.TTF",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": [
+                21
+            ]
+        },
+        {
+            "Address": "SIMKAISDF#lan_zh-CN",
+            "AssetPath": "Assets/GameAssets/GUI/TMP/Fonts/TMPFont 1/SIMKAISDF#lan_zh-CN.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": [
+                21
+            ]
+        },
+        {
+            "Address": "SIMKAISDF",
+            "AssetPath": "Assets/GameAssets/GUI/TMP/Fonts/TMPFont 1/SIMKAISDF.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": [
+                21
+            ]
+        },
+        {
+            "Address": "ViewConfigData",
+            "AssetPath": "Assets/GameAssets/GUI/ViewConfigData.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes",
+                "Local"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Knight.Core.dll",
+            "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/Knight.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Knight.Hotfix.dll",
+            "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/Knight.Hotfix.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/System.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/UniTask.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UnityEngine.PropertiesModule.dll",
+            "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/UnityEngine.PropertiesModule.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "YooAsset.dll",
+            "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/YooAsset.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Game.Config",
+            "AssetPath": "Assets/GameAssets/Hotfix/Libs/Game.Config.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Game.Config.PDB",
+            "AssetPath": "Assets/GameAssets/Hotfix/Libs/Game.Config.PDB.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Game.Hotfix",
+            "AssetPath": "Assets/GameAssets/Hotfix/Libs/Game.Hotfix.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Game.Hotfix.PDB",
+            "AssetPath": "Assets/GameAssets/Hotfix/Libs/Game.Hotfix.PDB.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "AxiuEffectsShader",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/Effect/AxiuEffectsShader.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "StaticMeshOutputFresnal1",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/Effect/StaticMeshOutputFresnal1.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "ShaderVariants",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/ShaderVariants/ShaderVariants.shadervariants",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_Bitmap",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_Bitmap.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_Bitmap-Custom-Atlas",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_Bitmap-Custom-Atlas.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_Bitmap-Mobile",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_Bitmap-Mobile.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_SDF Overlay",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_SDF Overlay.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_SDF SSD",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_SDF SSD.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_SDF",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_SDF.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_SDF-Mobile Masking",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_SDF-Mobile Masking.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_SDF-Mobile Overlay",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_SDF-Mobile Overlay.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_SDF-Mobile SSD",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_SDF-Mobile SSD.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_SDF-Mobile",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_SDF-Mobile.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_SDF-Mobile-2-Pass",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_SDF-Mobile-2-Pass.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_SDF-Surface",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_SDF-Surface.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_SDF-Surface-Mobile",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_SDF-Surface-Mobile.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TMP_Sprite",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_Sprite.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "GrayUI",
+            "AssetPath": "Assets/GameAssets/URP/Shaders/UI/GrayUI.shader",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Local"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_game_config_cellconfig.bundle",
+            "UnityCRC": 4072128346,
+            "FileHash": "fdeca479d8fad7b0defc7bcadc58fa8a",
+            "FileCRC": "ad952d48",
+            "FileSize": 2201,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                14,
+                18,
+                19,
+                21
+            ]
+        },
+        {
+            "BundleName": "assets_game_config_level.bundle",
+            "UnityCRC": 1459296521,
+            "FileHash": "44145afb65c50d2e0a8bba6277e29132",
+            "FileCRC": "a4956d46",
+            "FileSize": 1591,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_gameassets_config_gameconfig_json.bundle",
+            "UnityCRC": 3349301320,
+            "FileHash": "fc8f16bb3ec956bf38a8c204753e36e1",
+            "FileCRC": "88b7206d",
+            "FileSize": 1473,
+            "Encrypted": false,
+            "Tags": [
+                "Json",
+                "Local"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_gameassets_gui.bundle",
+            "UnityCRC": 1787103602,
+            "FileHash": "c7da43296d07ac63b1a0a9968efdd86b",
+            "FileCRC": "62d346d0",
+            "FileSize": 2230,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_gameassets_gui_config.bundle",
+            "UnityCRC": 3013087024,
+            "FileHash": "7a2f74e42312bef0da18c9c542308896",
+            "FileCRC": "aab234d9",
+            "FileSize": 1861,
+            "Encrypted": false,
+            "Tags": [
+                "Local"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_gameassets_gui_prefabs_levelendpanel.bundle",
+            "UnityCRC": 3926193153,
+            "FileHash": "b6cd6416022d9956a2c821f72a59ca5f",
+            "FileCRC": "cbc8b179",
+            "FileSize": 9873,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": [
+                11,
+                15,
+                21
+            ]
+        },
+        {
+            "BundleName": "assets_gameassets_gui_prefabs_levelmainpanel.bundle",
+            "UnityCRC": 3946349318,
+            "FileHash": "4e286d13b90c24f098e0fd3358c89709",
+            "FileCRC": "3baddedb",
+            "FileSize": 11082,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": [
+                11,
+                21
+            ]
+        },
+        {
+            "BundleName": "assets_gameassets_gui_prefabs_login.bundle",
+            "UnityCRC": 3365431529,
+            "FileHash": "3e008d7e7adbb5be38bce39438d006b1",
+            "FileCRC": "fe9b194d",
+            "FileSize": 15009,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": [
+                16,
+                17,
+                21
+            ]
+        },
+        {
+            "BundleName": "assets_gameassets_gui_prefabs_mainpanel.bundle",
+            "UnityCRC": 3892143929,
+            "FileHash": "8cb5d95649b63951d9bc6cbf39f86772",
+            "FileCRC": "58deb5b9",
+            "FileSize": 11382,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": [
+                11,
+                21
+            ]
+        },
+        {
+            "BundleName": "assets_gameassets_gui_prefabs_selectlevelpanel.bundle",
+            "UnityCRC": 2529398245,
+            "FileHash": "bb42c452791ff249464f5f3b8a311911",
+            "FileCRC": "49ac2b9d",
+            "FileSize": 3763,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_gameassets_gui_prefabs_settingpanel.bundle",
+            "UnityCRC": 4013737639,
+            "FileHash": "0269a4d640057ac2e6fda7164ad8b27a",
+            "FileCRC": "2d08f436",
+            "FileSize": 9436,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": [
+                15,
+                20,
+                21
+            ]
+        },
+        {
+            "BundleName": "assets_gameassets_gui_tmp_fonts_tmpfont_1.bundle",
+            "UnityCRC": 25044865,
+            "FileHash": "3a12fdb5d9eeb7e27437a2426951a9b8",
+            "FileCRC": "72a9d137",
+            "FileSize": 8394853,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": [
+                21
+            ]
+        },
+        {
+            "BundleName": "assets_gameassets_hotfix_aotasms.bundle",
+            "UnityCRC": 720420849,
+            "FileHash": "3c697ea11899fb8b3ffc4485157f98ed",
+            "FileCRC": "acad0d13",
+            "FileSize": 2164986,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_gameassets_hotfix_libs.bundle",
+            "UnityCRC": 1161590082,
+            "FileHash": "2f2a34259809e2a31c2028e18831304d",
+            "FileCRC": "a3f7e419",
+            "FileSize": 105082,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_gameassets_cellprefab.bundle",
+            "UnityCRC": 613688479,
+            "FileHash": "4102aa63d2379996e0a633795c7181b8",
+            "FileCRC": "ba5b8f9d",
+            "FileSize": 5223,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                18,
+                19,
+                21
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameassets_defaultfont.bundle",
+            "UnityCRC": 2645253723,
+            "FileHash": "aaba9c27386210c58c2359fdccb6be76",
+            "FileCRC": "2f1d0849",
+            "FileSize": 2673356,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": [
+                21
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameassets_gui_tmp_fonts_tmpfont#lan_zh-cn.bundle",
+            "UnityCRC": 1529500152,
+            "FileHash": "e19e9f7dd1a3e752cc60b5e27ed28824",
+            "FileCRC": "c5302782",
+            "FileSize": 10271404,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": [
+                21
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameassets_gui_tmp_fonts_tmpfont.bundle",
+            "UnityCRC": 299025722,
+            "FileHash": "ecde54d3ff596daf6ec1bef8b9adb68f",
+            "FileCRC": "dc381a2d",
+            "FileSize": 7994,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": [
+                16,
+                21
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameassets_raw_cellsp.bundle",
+            "UnityCRC": 4137118053,
+            "FileHash": "4ed99832cf75a65acc52523bbc4a4b99",
+            "FileCRC": "bd6f63c9",
+            "FileSize": 18785,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_gameassets_raw_ui_mainui_属性.bundle",
+            "UnityCRC": 627159321,
+            "FileHash": "3ff74d4474aeb4fbb01dad9e7fff257a",
+            "FileCRC": "88ef3c01",
+            "FileSize": 9314,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_gameassets_raw_ui_playerlistui.bundle",
+            "UnityCRC": 3485783783,
+            "FileHash": "384d7616dceb57bd93b498475280f96e",
+            "FileCRC": "0e24bf1a",
+            "FileSize": 6111,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 3721359664,
+            "FileHash": "4fa764c62d4456072ceb65e443deeb32",
+            "FileCRC": "42337bd2",
+            "FileSize": 264232,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": []
+        }
+    ]
+}
