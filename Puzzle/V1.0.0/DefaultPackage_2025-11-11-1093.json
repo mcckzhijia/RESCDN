@@ -7,27 +7,31 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-11-10-1083",
-    "PackageNote": "2025/11/10 18:03:05",
+    "PackageVersion": "2025-11-11-1093",
+    "PackageNote": "2025/11/11 18:13:20",
     "AssetList": [
         {
             "Address": "CellConfigDatas",
             "AssetPath": "Assets/Game.Config/CellConfig/CellConfigDatas.asset",
             "AssetGUID": "",
-            "AssetTags": [],
+            "AssetTags": [
+                "HotRes"
+            ],
             "BundleID": 0,
             "DependBundleIDs": [
-                14,
-                18,
+                15,
                 19,
-                21
+                21,
+                24
             ]
         },
         {
             "Address": "AllLevel",
             "AssetPath": "Assets/Game.Config/Level/AllLevel.txt",
             "AssetGUID": "",
-            "AssetTags": [],
+            "AssetTags": [
+                "HotRes"
+            ],
             "BundleID": 1,
             "DependBundleIDs": []
         },
@@ -35,7 +39,9 @@
             "Address": "Level_1",
             "AssetPath": "Assets/Game.Config/Level/Level_1.json",
             "AssetGUID": "",
-            "AssetTags": [],
+            "AssetTags": [
+                "HotRes"
+            ],
             "BundleID": 1,
             "DependBundleIDs": []
         },
@@ -43,7 +49,9 @@
             "Address": "Level_2",
             "AssetPath": "Assets/Game.Config/Level/Level_2.json",
             "AssetGUID": "",
-            "AssetTags": [],
+            "AssetTags": [
+                "HotRes"
+            ],
             "BundleID": 1,
             "DependBundleIDs": []
         },
@@ -51,7 +59,9 @@
             "Address": "Level_3",
             "AssetPath": "Assets/Game.Config/Level/Level_3.json",
             "AssetGUID": "",
-            "AssetTags": [],
+            "AssetTags": [
+                "HotRes"
+            ],
             "BundleID": 1,
             "DependBundleIDs": []
         },
@@ -98,8 +108,8 @@
             "BundleID": 5,
             "DependBundleIDs": [
                 11,
-                15,
-                21
+                16,
+                24
             ]
         },
         {
@@ -113,7 +123,7 @@
             "BundleID": 6,
             "DependBundleIDs": [
                 11,
-                21
+                24
             ]
         },
         {
@@ -126,9 +136,9 @@
             ],
             "BundleID": 7,
             "DependBundleIDs": [
-                16,
                 17,
-                21
+                18,
+                24
             ]
         },
         {
@@ -141,9 +151,9 @@
             ],
             "BundleID": 7,
             "DependBundleIDs": [
-                16,
                 17,
-                21
+                18,
+                24
             ]
         },
         {
@@ -157,7 +167,7 @@
             "BundleID": 8,
             "DependBundleIDs": [
                 11,
-                21
+                24
             ]
         },
         {
@@ -181,9 +191,9 @@
             ],
             "BundleID": 10,
             "DependBundleIDs": [
-                15,
-                20,
-                21
+                16,
+                22,
+                24
             ]
         },
         {
@@ -195,7 +205,7 @@
             ],
             "BundleID": 11,
             "DependBundleIDs": [
-                21
+                24
             ]
         },
         {
@@ -207,7 +217,7 @@
             ],
             "BundleID": 11,
             "DependBundleIDs": [
-                21
+                24
             ]
         },
         {
@@ -219,7 +229,7 @@
             ],
             "BundleID": 11,
             "DependBundleIDs": [
-                21
+                24
             ]
         },
         {
@@ -231,7 +241,7 @@
             ],
             "BundleID": 11,
             "DependBundleIDs": [
-                21
+                24
             ]
         },
         {
@@ -366,13 +376,33 @@
             "DependBundleIDs": []
         },
         {
+            "Address": "LevelEditorRoot",
+            "AssetPath": "Assets/GameAssets/Prefabs/LevelEditorRoot.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes",
+                "Local"
+            ],
+            "BundleID": 14,
+            "DependBundleIDs": [
+                0,
+                15,
+                16,
+                19,
+                20,
+                21,
+                23,
+                24
+            ]
+        },
+        {
             "Address": "AxiuEffectsShader",
             "AssetPath": "Assets/GameAssets/URP/Shaders/Effect/AxiuEffectsShader.shader",
             "AssetGUID": "",
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -382,7 +412,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -392,7 +422,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -402,7 +432,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -412,7 +442,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -422,7 +452,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -432,7 +462,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -442,7 +472,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -452,7 +482,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -462,7 +492,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -472,7 +502,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -482,7 +512,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -492,7 +522,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -502,7 +532,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -512,7 +542,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -522,7 +552,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -532,7 +562,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         },
         {
@@ -542,7 +572,7 @@
             "AssetTags": [
                 "Local"
             ],
-            "BundleID": 21,
+            "BundleID": 24,
             "DependBundleIDs": []
         }
     ],
@@ -554,22 +584,27 @@
             "FileCRC": "ad952d48",
             "FileSize": 2201,
             "Encrypted": false,
-            "Tags": [],
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
             "DependBundleIDs": [
-                14,
-                18,
+                15,
                 19,
-                21
+                21,
+                24
             ]
         },
         {
             "BundleName": "assets_game_config_level.bundle",
-            "UnityCRC": 1459296521,
-            "FileHash": "44145afb65c50d2e0a8bba6277e29132",
-            "FileCRC": "a4956d46",
-            "FileSize": 1591,
+            "UnityCRC": 2161682096,
+            "FileHash": "6a05fb4d04735c8a0b68030fdc2ae2a4",
+            "FileCRC": "2ad5cb7b",
+            "FileSize": 1558,
             "Encrypted": false,
-            "Tags": [],
+            "Tags": [
+                "HotRes"
+            ],
             "DependBundleIDs": []
         },
         {
@@ -623,8 +658,8 @@
             ],
             "DependBundleIDs": [
                 11,
-                15,
-                21
+                16,
+                24
             ]
         },
         {
@@ -640,7 +675,7 @@
             ],
             "DependBundleIDs": [
                 11,
-                21
+                24
             ]
         },
         {
@@ -655,9 +690,9 @@
                 "Local"
             ],
             "DependBundleIDs": [
-                16,
                 17,
-                21
+                18,
+                24
             ]
         },
         {
@@ -673,7 +708,7 @@
             ],
             "DependBundleIDs": [
                 11,
-                21
+                24
             ]
         },
         {
@@ -701,9 +736,9 @@
                 "Local"
             ],
             "DependBundleIDs": [
-                15,
-                20,
-                21
+                16,
+                22,
+                24
             ]
         },
         {
@@ -718,15 +753,15 @@
                 "Local"
             ],
             "DependBundleIDs": [
-                21
+                24
             ]
         },
         {
             "BundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "UnityCRC": 720420849,
-            "FileHash": "3c697ea11899fb8b3ffc4485157f98ed",
-            "FileCRC": "acad0d13",
-            "FileSize": 2164986,
+            "UnityCRC": 3627453864,
+            "FileHash": "9b2bb29426e713d7472c0e243fc3f0bd",
+            "FileCRC": "0c92f128",
+            "FileSize": 2165004,
             "Encrypted": false,
             "Tags": [
                 "HotRes"
@@ -735,10 +770,10 @@
         },
         {
             "BundleName": "assets_gameassets_hotfix_libs.bundle",
-            "UnityCRC": 1161590082,
-            "FileHash": "2f2a34259809e2a31c2028e18831304d",
-            "FileCRC": "a3f7e419",
-            "FileSize": 105082,
+            "UnityCRC": 868583469,
+            "FileHash": "b14b7fb7fee69001b6aabe4999eb9232",
+            "FileCRC": "2ac52026",
+            "FileSize": 105990,
             "Encrypted": false,
             "Tags": [
                 "HotRes"
@@ -746,17 +781,42 @@
             "DependBundleIDs": []
         },
         {
-            "BundleName": "share_assets_gameassets_cellprefab.bundle",
-            "UnityCRC": 613688479,
-            "FileHash": "4102aa63d2379996e0a633795c7181b8",
-            "FileCRC": "ba5b8f9d",
-            "FileSize": 5223,
+            "BundleName": "assets_gameassets_prefabs.bundle",
+            "UnityCRC": 2194824050,
+            "FileHash": "568305f6e11a972e62d911e292f9068b",
+            "FileCRC": "6212010f",
+            "FileSize": 18039,
             "Encrypted": false,
-            "Tags": [],
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
             "DependBundleIDs": [
-                18,
+                0,
+                15,
+                16,
                 19,
-                21
+                20,
+                21,
+                23,
+                24
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameassets_cellprefab.bundle",
+            "UnityCRC": 1286952577,
+            "FileHash": "a1038ef103c5084db7e0a6c16896e373",
+            "FileCRC": "9d28a0aa",
+            "FileSize": 6315,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": [
+                19,
+                21,
+                24
             ]
         },
         {
@@ -771,7 +831,7 @@
                 "Local"
             ],
             "DependBundleIDs": [
-                21
+                24
             ]
         },
         {
@@ -786,7 +846,7 @@
                 "Local"
             ],
             "DependBundleIDs": [
-                21
+                24
             ]
         },
         {
@@ -801,18 +861,34 @@
                 "Local"
             ],
             "DependBundleIDs": [
-                16,
-                21
+                17,
+                24
             ]
         },
         {
             "BundleName": "share_assets_gameassets_raw_cellsp.bundle",
-            "UnityCRC": 4137118053,
-            "FileHash": "4ed99832cf75a65acc52523bbc4a4b99",
-            "FileCRC": "bd6f63c9",
-            "FileSize": 18785,
+            "UnityCRC": 2114873416,
+            "FileHash": "e5fce27f48307b3a711b3ae9e0beac86",
+            "FileCRC": "4a4f708f",
+            "FileSize": 19006,
             "Encrypted": false,
-            "Tags": [],
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_gameassets_raw_ui_editorui.bundle",
+            "UnityCRC": 1159174535,
+            "FileHash": "1e58538a10a4de228383b28e2ad33880",
+            "FileCRC": "14950f50",
+            "FileSize": 4442,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
             "DependBundleIDs": []
         },
         {
@@ -822,7 +898,10 @@
             "FileCRC": "88ef3c01",
             "FileSize": 9314,
             "Encrypted": false,
-            "Tags": [],
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
             "DependBundleIDs": []
         },
         {
@@ -831,6 +910,19 @@
             "FileHash": "384d7616dceb57bd93b498475280f96e",
             "FileCRC": "0e24bf1a",
             "FileSize": 6111,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_packages_com_yasirkula_ingamedebugconsole_plugins_ingamedebugconsole_sprites.bundle",
+            "UnityCRC": 475140363,
+            "FileHash": "532d9baf9412069626bb2917180d1e0c",
+            "FileCRC": "cfcfcf7c",
+            "FileSize": 20599,
             "Encrypted": false,
             "Tags": [
                 "HotRes",

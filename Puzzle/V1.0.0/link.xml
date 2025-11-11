@@ -3,6 +3,9 @@
     <type fullname="Game.BoxCell" preserve="all" />
     <type fullname="Game.CellBase" preserve="all" />
     <type fullname="Game.CellConfigData" preserve="all" />
+    <type fullname="Game.EditorCell" preserve="all" />
+    <type fullname="Game.LevelEditor" preserve="all" />
+    <type fullname="Game.LevelEditorCanvas" preserve="all" />
     <type fullname="Game.MainPanelView" preserve="all" />
     <type fullname="Game.SimpleCell" preserve="all" />
     <type fullname="Game.UILevelEndPanelView" preserve="all" />
@@ -10,6 +13,8 @@
     <type fullname="Game.UILoadingView" preserve="all" />
     <type fullname="Game.UILoginPanelView" preserve="all" />
     <type fullname="Game.UISettingPanelView" preserve="all" />
+    <type fullname="Game.AllCellType" preserve="nothing" serialized="true" />
+    <type fullname="Game.AllMapCellType" preserve="nothing" serialized="true" />
     <type fullname="Game.CellConfig" preserve="nothing" serialized="true" />
     <type fullname="Game.CellConfigPair" preserve="nothing" serialized="true" />
     <type fullname="Game.MapCellConfig" preserve="nothing" serialized="true" />
@@ -64,15 +69,25 @@
     <type fullname="UnityEngine.TextAsset" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
     <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
     <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
     <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />

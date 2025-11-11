@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.14",
         "UnityVersion": "6000.2.1f1",
-        "BuildDate": "2025/11/10 18:03:10",
-        "BuildSeconds": 4,
+        "BuildDate": "2025/11/11 18:13:26",
+        "BuildSeconds": 6,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2025-11-10-1083",
-        "BuildPackageNote": "2025/11/10 18:03:05",
+        "BuildPackageVersion": "2025-11-11-1093",
+        "BuildPackageNote": "2025/11/11 18:13:20",
         "UniqueBundleName": false,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -32,10 +32,10 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "unityshaders.bundle",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 70,
-        "MainAssetTotalCount": 50,
-        "AllBundleTotalCount": 22,
-        "AllBundleTotalSize": 23991241,
+        "AssetFileTotalCount": 75,
+        "MainAssetTotalCount": 51,
+        "AllBundleTotalCount": 25,
+        "AllBundleTotalSize": 24036527,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -44,7 +44,9 @@
             "Address": "CellConfigDatas",
             "AssetPath": "Assets/Game.Config/CellConfig/CellConfigDatas.asset",
             "AssetGUID": "c58b6e546c334f94abe0368619f4b182",
-            "AssetTags": [],
+            "AssetTags": [
+                "HotRes"
+            ],
             "MainBundleName": "assets_game_config_cellconfig.bundle",
             "MainBundleSize": 2201,
             "DependAssets": [
@@ -104,9 +106,11 @@
             "Address": "AllLevel",
             "AssetPath": "Assets/Game.Config/Level/AllLevel.txt",
             "AssetGUID": "5cb9333a86eb15342ac61a24068a4b94",
-            "AssetTags": [],
+            "AssetTags": [
+                "HotRes"
+            ],
             "MainBundleName": "assets_game_config_level.bundle",
-            "MainBundleSize": 1591,
+            "MainBundleSize": 1558,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -114,9 +118,11 @@
             "Address": "Level_1",
             "AssetPath": "Assets/Game.Config/Level/Level_1.json",
             "AssetGUID": "d7eb60b6d4fb5684988b844fe52ce1fb",
-            "AssetTags": [],
+            "AssetTags": [
+                "HotRes"
+            ],
             "MainBundleName": "assets_game_config_level.bundle",
-            "MainBundleSize": 1591,
+            "MainBundleSize": 1558,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -124,9 +130,11 @@
             "Address": "Level_2",
             "AssetPath": "Assets/Game.Config/Level/Level_2.json",
             "AssetGUID": "08ba38dead8b31840adedaa143d44ed5",
-            "AssetTags": [],
+            "AssetTags": [
+                "HotRes"
+            ],
             "MainBundleName": "assets_game_config_level.bundle",
-            "MainBundleSize": 1591,
+            "MainBundleSize": 1558,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -134,9 +142,11 @@
             "Address": "Level_3",
             "AssetPath": "Assets/Game.Config/Level/Level_3.json",
             "AssetGUID": "21f54c3604bc50d4aa0d8eccb2c27ea8",
-            "AssetTags": [],
+            "AssetTags": [
+                "HotRes"
+            ],
             "MainBundleName": "assets_game_config_level.bundle",
-            "MainBundleSize": 1591,
+            "MainBundleSize": 1558,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -537,7 +547,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2164986,
+            "MainBundleSize": 2165004,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -549,7 +559,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2164986,
+            "MainBundleSize": 2165004,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -561,7 +571,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2164986,
+            "MainBundleSize": 2165004,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -573,7 +583,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2164986,
+            "MainBundleSize": 2165004,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -585,7 +595,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2164986,
+            "MainBundleSize": 2165004,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -597,7 +607,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2164986,
+            "MainBundleSize": 2165004,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -609,7 +619,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2164986,
+            "MainBundleSize": 2165004,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -621,7 +631,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2164986,
+            "MainBundleSize": 2165004,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -633,7 +643,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_libs.bundle",
-            "MainBundleSize": 105082,
+            "MainBundleSize": 105990,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -645,7 +655,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_libs.bundle",
-            "MainBundleSize": 105082,
+            "MainBundleSize": 105990,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -657,7 +667,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_libs.bundle",
-            "MainBundleSize": 105082,
+            "MainBundleSize": 105990,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -669,9 +679,108 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_libs.bundle",
-            "MainBundleSize": 105082,
+            "MainBundleSize": 105990,
             "DependAssets": [],
             "DependBundles": []
+        },
+        {
+            "Address": "LevelEditorRoot",
+            "AssetPath": "Assets/GameAssets/Prefabs/LevelEditorRoot.prefab",
+            "AssetGUID": "8224e90ec27718a488befa1ad1086be9",
+            "AssetTags": [
+                "HotRes",
+                "Local"
+            ],
+            "MainBundleName": "assets_gameassets_prefabs.bundle",
+            "MainBundleSize": 18039,
+            "DependAssets": [
+                {
+                    "AssetPath": "Assets/Game.Config/CellConfig/CellConfigDatas.asset",
+                    "AssetGUID": "c58b6e546c334f94abe0368619f4b182"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/CellPrefab/EditorCell.prefab",
+                    "AssetGUID": "21d77e3492aeb9a4c892b97a46074515"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/CellPrefab/GroundCell.prefab",
+                    "AssetGUID": "1738fe6b31d9ddf41971c993ce24cec4"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/CellPrefab/NullCell.prefab",
+                    "AssetGUID": "face49f5f4ad64a449620c6bbe861996"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/CellPrefab/OP_BoxCell.prefab",
+                    "AssetGUID": "e6e78fa0ac868ed4c9c92703bdbbbd2c"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/CellPrefab/OP_MoveCell.prefab",
+                    "AssetGUID": "8dde803a706791645ace3fb58dfff044"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/CellPrefab/TargetCell.prefab",
+                    "AssetGUID": "db8b694bde82f7946bfe5d7915ed75b3"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/DefaultFont/W05TSANGERSHUYUANT SDF.asset",
+                    "AssetGUID": "e9acab33c86b8a348897dd58cb6c68b5"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/DefaultFont/W05TSANGERSHUYUANT.TTF",
+                    "AssetGUID": "d0f2b896bbeb6ac4eaf1bacdedccbdd1"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/Raw/CellSp/box.png",
+                    "AssetGUID": "0bf186bcde0439a43bf7e1e6eb9d2753"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/Raw/CellSp/cell_1.png",
+                    "AssetGUID": "176ff601585c2844c8b6838d31ada4cb"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/Raw/CellSp/cell_2.png",
+                    "AssetGUID": "e93a225dafdc688479db5af461932038"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/Raw/CellSp/cell_3.png",
+                    "AssetGUID": "6437695586dcb3741a641f93c15744c0"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/Raw/CellSp/opCell.png",
+                    "AssetGUID": "ecfe5b54433dabf468d733c73033915a"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/Raw/CellSp/opTarget.png",
+                    "AssetGUID": "27b7ecc9dc037ea47851d4cb0d44f901"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/Raw/UI/EditorUI/selectCell.png",
+                    "AssetGUID": "8661a0f6a75e73542a876cbfdae4cade"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/Raw/UI/MainUI/属性/属性底板.png",
+                    "AssetGUID": "3867d075c2c13034e8f24ae269110427"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/URP/Shaders/TMP/TMP_SDF.shader",
+                    "AssetGUID": "68e6db2ebdc24f95958faec2be5558d6"
+                },
+                {
+                    "AssetPath": "Packages/com.yasirkula.ingamedebugconsole/Plugins/IngameDebugConsole/Sprites/IconClear.psd",
+                    "AssetGUID": "7a9e374666ad6cc47807bb001844f3d8"
+                }
+            ],
+            "DependBundles": [
+                "assets_game_config_cellconfig.bundle",
+                "share_assets_gameassets_cellprefab.bundle",
+                "share_assets_gameassets_defaultfont.bundle",
+                "share_assets_gameassets_raw_cellsp.bundle",
+                "share_assets_gameassets_raw_ui_editorui.bundle",
+                "share_assets_gameassets_raw_ui_mainui_属性.bundle",
+                "share_packages_com_yasirkula_ingamedebugconsole_plugins_ingamedebugconsole_sprites.bundle",
+                "unityshaders.bundle"
+            ]
         },
         {
             "Address": "AxiuEffectsShader",
@@ -907,14 +1016,19 @@
             "FileCRC": "ad952d48",
             "FileSize": 2201,
             "Encrypted": false,
-            "Tags": [],
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
             "DependBundles": [
                 "share_assets_gameassets_cellprefab.bundle",
                 "share_assets_gameassets_raw_cellsp.bundle",
                 "share_assets_gameassets_raw_ui_mainui_属性.bundle",
                 "unityshaders.bundle"
             ],
-            "ReferenceBundles": [],
+            "ReferenceBundles": [
+                "assets_gameassets_prefabs.bundle"
+            ],
             "BundleContents": [
                 {
                     "AssetPath": "Assets/Game.Config/CellConfig/CellConfigDatas.asset",
@@ -924,12 +1038,14 @@
         },
         {
             "BundleName": "assets_game_config_level.bundle",
-            "FileName": "44145afb65c50d2e0a8bba6277e29132.bundle",
-            "FileHash": "44145afb65c50d2e0a8bba6277e29132",
-            "FileCRC": "a4956d46",
-            "FileSize": 1591,
+            "FileName": "6a05fb4d04735c8a0b68030fdc2ae2a4.bundle",
+            "FileHash": "6a05fb4d04735c8a0b68030fdc2ae2a4",
+            "FileCRC": "2ad5cb7b",
+            "FileSize": 1558,
             "Encrypted": false,
-            "Tags": [],
+            "Tags": [
+                "HotRes"
+            ],
             "DependBundles": [],
             "ReferenceBundles": [],
             "BundleContents": [
@@ -1196,10 +1312,10 @@
         },
         {
             "BundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "FileName": "3c697ea11899fb8b3ffc4485157f98ed.bundle",
-            "FileHash": "3c697ea11899fb8b3ffc4485157f98ed",
-            "FileCRC": "acad0d13",
-            "FileSize": 2164986,
+            "FileName": "9b2bb29426e713d7472c0e243fc3f0bd.bundle",
+            "FileHash": "9b2bb29426e713d7472c0e243fc3f0bd",
+            "FileCRC": "0c92f128",
+            "FileSize": 2165004,
             "Encrypted": false,
             "Tags": [
                 "HotRes"
@@ -1243,10 +1359,10 @@
         },
         {
             "BundleName": "assets_gameassets_hotfix_libs.bundle",
-            "FileName": "2f2a34259809e2a31c2028e18831304d.bundle",
-            "FileHash": "2f2a34259809e2a31c2028e18831304d",
-            "FileCRC": "a3f7e419",
-            "FileSize": 105082,
+            "FileName": "b14b7fb7fee69001b6aabe4999eb9232.bundle",
+            "FileHash": "b14b7fb7fee69001b6aabe4999eb9232",
+            "FileCRC": "2ac52026",
+            "FileSize": 105990,
             "Encrypted": false,
             "Tags": [
                 "HotRes"
@@ -1273,22 +1389,59 @@
             ]
         },
         {
-            "BundleName": "share_assets_gameassets_cellprefab.bundle",
-            "FileName": "4102aa63d2379996e0a633795c7181b8.bundle",
-            "FileHash": "4102aa63d2379996e0a633795c7181b8",
-            "FileCRC": "ba5b8f9d",
-            "FileSize": 5223,
+            "BundleName": "assets_gameassets_prefabs.bundle",
+            "FileName": "568305f6e11a972e62d911e292f9068b.bundle",
+            "FileHash": "568305f6e11a972e62d911e292f9068b",
+            "FileCRC": "6212010f",
+            "FileSize": 18039,
             "Encrypted": false,
-            "Tags": [],
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundles": [
+                "assets_game_config_cellconfig.bundle",
+                "share_assets_gameassets_cellprefab.bundle",
+                "share_assets_gameassets_defaultfont.bundle",
+                "share_assets_gameassets_raw_cellsp.bundle",
+                "share_assets_gameassets_raw_ui_editorui.bundle",
+                "share_assets_gameassets_raw_ui_mainui_属性.bundle",
+                "share_packages_com_yasirkula_ingamedebugconsole_plugins_ingamedebugconsole_sprites.bundle",
+                "unityshaders.bundle"
+            ],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/GameAssets/Prefabs/LevelEditorRoot.prefab",
+                    "AssetGUID": "8224e90ec27718a488befa1ad1086be9"
+                }
+            ]
+        },
+        {
+            "BundleName": "share_assets_gameassets_cellprefab.bundle",
+            "FileName": "a1038ef103c5084db7e0a6c16896e373.bundle",
+            "FileHash": "a1038ef103c5084db7e0a6c16896e373",
+            "FileCRC": "9d28a0aa",
+            "FileSize": 6315,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
             "DependBundles": [
                 "share_assets_gameassets_raw_cellsp.bundle",
                 "share_assets_gameassets_raw_ui_mainui_属性.bundle",
                 "unityshaders.bundle"
             ],
             "ReferenceBundles": [
-                "assets_game_config_cellconfig.bundle"
+                "assets_game_config_cellconfig.bundle",
+                "assets_gameassets_prefabs.bundle"
             ],
             "BundleContents": [
+                {
+                    "AssetPath": "Assets/GameAssets/CellPrefab/EditorCell.prefab",
+                    "AssetGUID": "21d77e3492aeb9a4c892b97a46074515"
+                },
                 {
                     "AssetPath": "Assets/GameAssets/CellPrefab/GroundCell.prefab",
                     "AssetGUID": "1738fe6b31d9ddf41971c993ce24cec4"
@@ -1327,7 +1480,8 @@
             ],
             "ReferenceBundles": [
                 "assets_gameassets_gui_prefabs_levelendpanel.bundle",
-                "assets_gameassets_gui_prefabs_settingpanel.bundle"
+                "assets_gameassets_gui_prefabs_settingpanel.bundle",
+                "assets_gameassets_prefabs.bundle"
             ],
             "BundleContents": [
                 {
@@ -1404,21 +1558,29 @@
         },
         {
             "BundleName": "share_assets_gameassets_raw_cellsp.bundle",
-            "FileName": "4ed99832cf75a65acc52523bbc4a4b99.bundle",
-            "FileHash": "4ed99832cf75a65acc52523bbc4a4b99",
-            "FileCRC": "bd6f63c9",
-            "FileSize": 18785,
+            "FileName": "e5fce27f48307b3a711b3ae9e0beac86.bundle",
+            "FileHash": "e5fce27f48307b3a711b3ae9e0beac86",
+            "FileCRC": "4a4f708f",
+            "FileSize": 19006,
             "Encrypted": false,
-            "Tags": [],
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
             "DependBundles": [],
             "ReferenceBundles": [
                 "assets_game_config_cellconfig.bundle",
+                "assets_gameassets_prefabs.bundle",
                 "share_assets_gameassets_cellprefab.bundle"
             ],
             "BundleContents": [
                 {
                     "AssetPath": "Assets/GameAssets/Raw/CellSp/box.png",
                     "AssetGUID": "0bf186bcde0439a43bf7e1e6eb9d2753"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/Raw/CellSp/cell_1.png",
+                    "AssetGUID": "176ff601585c2844c8b6838d31ada4cb"
                 },
                 {
                     "AssetPath": "Assets/GameAssets/Raw/CellSp/cell_2.png",
@@ -1439,16 +1601,42 @@
             ]
         },
         {
+            "BundleName": "share_assets_gameassets_raw_ui_editorui.bundle",
+            "FileName": "1e58538a10a4de228383b28e2ad33880.bundle",
+            "FileHash": "1e58538a10a4de228383b28e2ad33880",
+            "FileCRC": "14950f50",
+            "FileSize": 4442,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "assets_gameassets_prefabs.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/GameAssets/Raw/UI/EditorUI/selectCell.png",
+                    "AssetGUID": "8661a0f6a75e73542a876cbfdae4cade"
+                }
+            ]
+        },
+        {
             "BundleName": "share_assets_gameassets_raw_ui_mainui_属性.bundle",
             "FileName": "3ff74d4474aeb4fbb01dad9e7fff257a.bundle",
             "FileHash": "3ff74d4474aeb4fbb01dad9e7fff257a",
             "FileCRC": "88ef3c01",
             "FileSize": 9314,
             "Encrypted": false,
-            "Tags": [],
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
             "DependBundles": [],
             "ReferenceBundles": [
                 "assets_game_config_cellconfig.bundle",
+                "assets_gameassets_prefabs.bundle",
                 "share_assets_gameassets_cellprefab.bundle"
             ],
             "BundleContents": [
@@ -1481,6 +1669,28 @@
             ]
         },
         {
+            "BundleName": "share_packages_com_yasirkula_ingamedebugconsole_plugins_ingamedebugconsole_sprites.bundle",
+            "FileName": "532d9baf9412069626bb2917180d1e0c.bundle",
+            "FileHash": "532d9baf9412069626bb2917180d1e0c",
+            "FileCRC": "cfcfcf7c",
+            "FileSize": 20599,
+            "Encrypted": false,
+            "Tags": [
+                "HotRes",
+                "Local"
+            ],
+            "DependBundles": [],
+            "ReferenceBundles": [
+                "assets_gameassets_prefabs.bundle"
+            ],
+            "BundleContents": [
+                {
+                    "AssetPath": "Packages/com.yasirkula.ingamedebugconsole/Plugins/IngameDebugConsole/Sprites/IconClear.psd",
+                    "AssetGUID": "7a9e374666ad6cc47807bb001844f3d8"
+                }
+            ]
+        },
+        {
             "BundleName": "unityshaders.bundle",
             "FileName": "4fa764c62d4456072ceb65e443deeb32.bundle",
             "FileHash": "4fa764c62d4456072ceb65e443deeb32",
@@ -1500,6 +1710,7 @@
                 "assets_gameassets_gui_prefabs_mainpanel.bundle",
                 "assets_gameassets_gui_prefabs_settingpanel.bundle",
                 "assets_gameassets_gui_tmp_fonts_tmpfont_1.bundle",
+                "assets_gameassets_prefabs.bundle",
                 "share_assets_gameassets_cellprefab.bundle",
                 "share_assets_gameassets_defaultfont.bundle",
                 "share_assets_gameassets_gui_tmp_fonts_tmpfont#lan_zh-cn.bundle",
