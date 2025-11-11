@@ -7,8 +7,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-11-11-1093",
-    "PackageNote": "2025/11/11 18:13:20",
+    "PackageVersion": "2025-11-11-1103",
+    "PackageNote": "2025/11/11 18:23:43",
     "AssetList": [
         {
             "Address": "CellConfigDatas",
@@ -268,6 +268,16 @@
         {
             "Address": "Knight.Hotfix.dll",
             "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/Knight.Hotfix.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Knight.UI.dll",
+            "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/Knight.UI.dll.bytes",
             "AssetGUID": "",
             "AssetTags": [
                 "HotRes"
@@ -758,10 +768,10 @@
         },
         {
             "BundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "UnityCRC": 3627453864,
-            "FileHash": "9b2bb29426e713d7472c0e243fc3f0bd",
-            "FileCRC": "0c92f128",
-            "FileSize": 2165004,
+            "UnityCRC": 1002631542,
+            "FileHash": "e712b081c5fa888104d03f7294aca30e",
+            "FileCRC": "c3562e14",
+            "FileSize": 2236186,
             "Encrypted": false,
             "Tags": [
                 "HotRes"

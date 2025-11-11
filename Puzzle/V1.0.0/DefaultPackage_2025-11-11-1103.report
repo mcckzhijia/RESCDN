@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.14",
         "UnityVersion": "6000.2.1f1",
-        "BuildDate": "2025/11/11 18:13:26",
-        "BuildSeconds": 6,
+        "BuildDate": "2025/11/11 18:23:49",
+        "BuildSeconds": 5,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2025-11-11-1093",
-        "BuildPackageNote": "2025/11/11 18:13:20",
+        "BuildPackageVersion": "2025-11-11-1103",
+        "BuildPackageNote": "2025/11/11 18:23:43",
         "UniqueBundleName": false,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -32,10 +32,10 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "unityshaders.bundle",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 75,
-        "MainAssetTotalCount": 51,
+        "AssetFileTotalCount": 76,
+        "MainAssetTotalCount": 52,
         "AllBundleTotalCount": 25,
-        "AllBundleTotalSize": 24036527,
+        "AllBundleTotalSize": 24107709,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -547,7 +547,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2165004,
+            "MainBundleSize": 2236186,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -559,7 +559,19 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2165004,
+            "MainBundleSize": 2236186,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Knight.UI.dll",
+            "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/Knight.UI.dll.bytes",
+            "AssetGUID": "0e5fbe325a0020140a7747c7ac7b9bf6",
+            "AssetTags": [
+                "HotRes"
+            ],
+            "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
+            "MainBundleSize": 2236186,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -571,7 +583,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2165004,
+            "MainBundleSize": 2236186,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -583,7 +595,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2165004,
+            "MainBundleSize": 2236186,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -595,7 +607,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2165004,
+            "MainBundleSize": 2236186,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -607,7 +619,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2165004,
+            "MainBundleSize": 2236186,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -619,7 +631,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2165004,
+            "MainBundleSize": 2236186,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -631,7 +643,7 @@
                 "HotRes"
             ],
             "MainBundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "MainBundleSize": 2165004,
+            "MainBundleSize": 2236186,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -1312,10 +1324,10 @@
         },
         {
             "BundleName": "assets_gameassets_hotfix_aotasms.bundle",
-            "FileName": "9b2bb29426e713d7472c0e243fc3f0bd.bundle",
-            "FileHash": "9b2bb29426e713d7472c0e243fc3f0bd",
-            "FileCRC": "0c92f128",
-            "FileSize": 2165004,
+            "FileName": "e712b081c5fa888104d03f7294aca30e.bundle",
+            "FileHash": "e712b081c5fa888104d03f7294aca30e",
+            "FileCRC": "c3562e14",
+            "FileSize": 2236186,
             "Encrypted": false,
             "Tags": [
                 "HotRes"
@@ -1330,6 +1342,10 @@
                 {
                     "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/Knight.Hotfix.dll.bytes",
                     "AssetGUID": "084e5a43019fe114f91d22b79511dbb8"
+                },
+                {
+                    "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/Knight.UI.dll.bytes",
+                    "AssetGUID": "0e5fbe325a0020140a7747c7ac7b9bf6"
                 },
                 {
                     "AssetPath": "Assets/GameAssets/Hotfix/AOTAsms/mscorlib.dll.bytes",
