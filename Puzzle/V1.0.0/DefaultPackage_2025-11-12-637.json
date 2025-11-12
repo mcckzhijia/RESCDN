@@ -7,8 +7,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-11-11-1103",
-    "PackageNote": "2025/11/11 18:23:43",
+    "PackageVersion": "2025-11-12-637",
+    "PackageNote": "2025/11/12 10:37:06",
     "AssetList": [
         {
             "Address": "CellConfigDatas",
