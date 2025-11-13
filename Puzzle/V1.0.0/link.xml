@@ -4,6 +4,7 @@
     <type fullname="Game.CellBase" preserve="all" />
     <type fullname="Game.CellConfigData" preserve="all" />
     <type fullname="Game.EditorCell" preserve="all" />
+    <type fullname="Game.InternMoveCell" preserve="all" />
     <type fullname="Game.LevelEditor" preserve="all" />
     <type fullname="Game.LevelEditorCanvas" preserve="all" />
     <type fullname="Game.MainPanelView" preserve="all" />

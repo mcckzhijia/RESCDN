@@ -7,8 +7,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-11-12-637",
-    "PackageNote": "2025/11/12 10:37:06",
+    "PackageVersion": "2025-11-13-815",
+    "PackageNote": "2025/11/13 13:35:28",
     "AssetList": [
         {
             "Address": "CellConfigDatas",
@@ -589,10 +589,10 @@
     "BundleList": [
         {
             "BundleName": "assets_game_config_cellconfig.bundle",
-            "UnityCRC": 4072128346,
-            "FileHash": "fdeca479d8fad7b0defc7bcadc58fa8a",
-            "FileCRC": "ad952d48",
-            "FileSize": 2201,
+            "UnityCRC": 1396743590,
+            "FileHash": "549ca5da11d735cb23963d552257b97f",
+            "FileCRC": "a4425f8f",
+            "FileSize": 2220,
             "Encrypted": false,
             "Tags": [
                 "HotRes",
@@ -607,10 +607,10 @@
         },
         {
             "BundleName": "assets_game_config_level.bundle",
-            "UnityCRC": 2161682096,
-            "FileHash": "6a05fb4d04735c8a0b68030fdc2ae2a4",
-            "FileCRC": "2ad5cb7b",
-            "FileSize": 1558,
+            "UnityCRC": 3973967287,
+            "FileHash": "3d583117586339fb19898e028b0193d0",
+            "FileCRC": "0837b1ab",
+            "FileSize": 1567,
             "Encrypted": false,
             "Tags": [
                 "HotRes"
@@ -780,10 +780,10 @@
         },
         {
             "BundleName": "assets_gameassets_hotfix_libs.bundle",
-            "UnityCRC": 868583469,
-            "FileHash": "b14b7fb7fee69001b6aabe4999eb9232",
-            "FileCRC": "2ac52026",
-            "FileSize": 105990,
+            "UnityCRC": 3653283244,
+            "FileHash": "daa4d68b52ce3ca48b9106cf184a355f",
+            "FileCRC": "55a1a6bf",
+            "FileSize": 106216,
             "Encrypted": false,
             "Tags": [
                 "HotRes"
@@ -792,10 +792,10 @@
         },
         {
             "BundleName": "assets_gameassets_prefabs.bundle",
-            "UnityCRC": 2194824050,
-            "FileHash": "568305f6e11a972e62d911e292f9068b",
-            "FileCRC": "6212010f",
-            "FileSize": 18039,
+            "UnityCRC": 1503091361,
+            "FileHash": "3ed9c63f0ae03d2a1116b6139fb1ab79",
+            "FileCRC": "7ef54ca1",
+            "FileSize": 18060,
             "Encrypted": false,
             "Tags": [
                 "HotRes",
@@ -814,10 +814,10 @@
         },
         {
             "BundleName": "share_assets_gameassets_cellprefab.bundle",
-            "UnityCRC": 1286952577,
-            "FileHash": "a1038ef103c5084db7e0a6c16896e373",
-            "FileCRC": "9d28a0aa",
-            "FileSize": 6315,
+            "UnityCRC": 972578702,
+            "FileHash": "6706e2481cbfbe2c71b484c2fd6cf7f1",
+            "FileCRC": "58d038a0",
+            "FileSize": 6634,
             "Encrypted": false,
             "Tags": [
                 "HotRes",
@@ -877,10 +877,10 @@
         },
         {
             "BundleName": "share_assets_gameassets_raw_cellsp.bundle",
-            "UnityCRC": 2114873416,
-            "FileHash": "e5fce27f48307b3a711b3ae9e0beac86",
-            "FileCRC": "4a4f708f",
-            "FileSize": 19006,
+            "UnityCRC": 3110098745,
+            "FileHash": "9eb199dc3c1c6f5cd8c50dc70e7741e2",
+            "FileCRC": "97d72a80",
+            "FileSize": 24494,
             "Encrypted": false,
             "Tags": [
                 "HotRes",
